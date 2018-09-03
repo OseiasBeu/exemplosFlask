@@ -1,0 +1,2 @@
+template_folder
+static_folder

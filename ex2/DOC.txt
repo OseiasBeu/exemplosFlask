@@ -1,0 +1,2 @@
+Para consumo de API utilizamos o jsonify
+Padrão de aplication factorie

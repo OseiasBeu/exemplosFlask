@@ -1,0 +1,2 @@
+Utilizando Blueprints
+Utilizando WSGI para deploy no servidor de produção
